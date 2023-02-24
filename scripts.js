@@ -19,7 +19,7 @@ window.onload = function() {
 
 
   var messages = [
-    'Olá, empreendedor! 👋🏼',
+    'Olá, empreendedor! 👋',
     'Meu nome é Kleber.',
     'Eu projeto e codifico negócios na web.',
     'Vi um grande potencial no seu perfil e',
@@ -40,7 +40,7 @@ window.onload = function() {
     'Eu faço isso porque cheguei a conclusão que',
     'nasci pra isso!!! ⭐⭐⭐⭐⭐',
     '🙇🏻‍♂️ Agora eu estou ansioso em ser seu amigo',
-    'no 👉🏻👉🏻 <a href="https://api.whatsapp.com/send?phone=5511913699970&text=Oi,%20Kleber!%20Voc%C3%AA%20pediu%20para%20eu%20te%20chamar%20por%20aqui%20me%20prometendo%20dicas%20para%20meu%20neg%C3%B3cio." target="_blank">WhatsApp</a> 👈🏻👈🏻',
+    'no 👉👉 <a href="https://api.whatsapp.com/send?phone=5511913699970&text=Oi,%20Kleber!%20Voc%C3%AA%20pediu%20para%20eu%20te%20chamar%20por%20aqui%20me%20prometendo%20dicas%20para%20meu%20neg%C3%B3cio." target="_blank">WhatsApp</a> 👈👈',
     getCurrentTime(),
   ]
 
